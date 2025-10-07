@@ -5,7 +5,7 @@ This project analyzes Netflix’s global catalog to uncover insights into conten
 The interactive dashboard enables users to filter by type and title to explore how Netflix’s content strategy evolved over time.
 
 ##  Dataset
-- *File Used: netflix_titles (1).csv
+- *File Used: https://github.com/KasturiSahithi/Netflix-Tableau-Dashboard/blob/main/netflix_titles%20(1).csv
 - *Attributes:*
   - show_id
   - type
