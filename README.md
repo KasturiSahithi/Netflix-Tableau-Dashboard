@@ -26,7 +26,7 @@ The interactive dashboard enables users to filter by type and title to explore h
 - Movies dominate Netflix’s library (~70%) compared to TV Shows  
 - The U.S., India, and the U.K. produce the highest number of titles  
 - Content releases increased rapidly after 2015  
-- Drama and Comedy are the most popular genres  
+- Documentaries and Stand Up comedy are the most popular genres  
 - “TV-MA” and “TV-14” are the most common maturity ratings  
 
 ##  Key Features
