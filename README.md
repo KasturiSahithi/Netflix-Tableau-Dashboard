@@ -47,6 +47,7 @@ It highlights my ability to turn raw data into actionable insights using Tableau
  
 ##  Author
 *Kasturi Sahithi*  
-📧 [your_email@example.com]  
-🌐 [LinkedIn Profile](your_linkedin_profile_here)  
-💻 [GitHub Profile](https://github.com/your_github_username)
+📧 [Kasturisahithi068@gmail.com]
+🌐 [LinkedIn Profile](www.linkedin.com/in/
+Sahithi-kasturi)  
+💻 [GitHub Profile](KasturiSahithi)
