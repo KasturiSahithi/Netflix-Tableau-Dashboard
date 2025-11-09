@@ -40,7 +40,7 @@ This dashboard demonstrates data cleaning, visualization, and storytelling — k
 It highlights my ability to turn raw data into actionable insights using Tableau.
 
 ## 🖼 Dashboard Preview
-[Netflix Dashboard Preview]("images/netflixdashboard_preview.png")
+[Netflix Dashboard Preview](https://github.com/KasturiSahithi/Netflix-Tableau-Dashboard/blob/main/images/netflixdashboard_preview.png)
 
 ##  Tableau Dashboard Link
  [View Interactive Dashboard on Tableau Public](https://public.tableau.com/app/profile/sahithi.kasturi/viz/Netflix_17597427904540/Netflix?publish=yes)
