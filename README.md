@@ -48,6 +48,6 @@ It highlights my ability to turn raw data into actionable insights using Tableau
 ##  Author
 *Kasturi Sahithi*  
 📧 [Kasturisahithi068@gmail.com]
-🌐 (www.linkedin.com/in/
+🌐 (https://www.linkedin.com/in/sahithi-kasturi)
 Sahithi-kasturi)  
 💻 [GitHub Profile](KasturiSahithi)
